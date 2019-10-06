@@ -5,6 +5,8 @@ date: "2019"
 
 Beginning my job search!
 
+![pic](./31193.jpg)
+
 ## Steps taken
 
 1. Create portfolio
