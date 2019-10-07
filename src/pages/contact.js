@@ -7,8 +7,11 @@ const ContactPage = () => {
         <Layout>
             <Head title="Contact" />
             <h1>Connect With Me</h1>
+            <p>Email: geflores5@gmail.com</p>
             <p>
-                <a href="https://twitter.com/GiovanniFloresE" target="_blank">@GiovanniFloresE</a> on Twitter
+                <a href="https://github.com/geflores5" target="_blank" >
+                    github
+                </a>
             </p>
         </Layout>
     );

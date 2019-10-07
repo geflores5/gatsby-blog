@@ -9,8 +9,7 @@ const AboutPage = () => {
         <Layout>
             <Head title="About" />
             <h1>About Me</h1>
-            <p>Inspiring Developer</p>
-            <Link to="/contact">Contact Me</Link>
+            <p>Web Developer</p>
         </Layout>
     );
 }
