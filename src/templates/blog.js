@@ -20,7 +20,7 @@ export const query = graphql`
 `
 
 const Blog = (props) => {
-    const disqusShortname = "https-geflores5-gatsby-blog-netlify-com";
+    const disqusShortname = process.env.GATSBY_DISQUS_NAME;
     const disqusConfig = {
         identifier: props.data.contentfulBlogPost.id,
         title: props.data.contentfulBlogPost.title
